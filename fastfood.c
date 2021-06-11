@@ -16,14 +16,14 @@ int main()
                   break;
         case 1: printf("Pizza,Rs 239\n");
                 break;
-        case 2: printf("Burger,Rs 129");
+        case 2: printf("Burger,Rs 129\n");
                 break;
                 
-        case 3: printf("Pasta,Rs 179");
+        case 3: printf("Pasta,Rs 179\n");
                 break;
-        case 4: printf("French Fries,Rs 99");
+        case 4: printf("French Fries,Rs 99\n");
                 break;
-        case 5: printf("Sandwich,Rs 149");
+        case 5: printf("Sandwich,Rs 149\n");
                 break;
                 
       
